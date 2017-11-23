@@ -1,0 +1,13 @@
+#!/usr/bin/Rscript
+
+vetor = c()
+
+for (i in 1:1000000) {
+  vetor[i] = as.numeric(i)
+}
+
+vetor = vetor^2
+sum(vetor)
+
+
+
