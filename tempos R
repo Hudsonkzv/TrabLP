@@ -1,4 +1,4 @@
-Tempo Programa 1 - N = 1000
+Tempo Programa 1 - N = 1000     Média = 0,130666667s	Desvio Padrão = 0,002974992
 
 real	0m0.133s
 real	0m0.141s
@@ -31,7 +31,7 @@ real	0m0.130s
 real	0m0.135s
 real	0m0.130s
 
-Tempo Programa 1 - N = 10000
+Tempo Programa 1 - N = 10000     Média = 0,290833333	Desvio Padrão = 0,008128635
 
 real	0m0.331s
 real	0m0.287s
@@ -64,7 +64,7 @@ real	0m0.287s
 real	0m0.287s
 real	0m0.288s
 
-Tempo Programa 1 - N = 1000000
+Tempo Programa 1 - N = 1000000     Média = 16m0,316s	Desvio Padrão = 30,89948249
 
 real	16m55.650s
 real	16m14.415s
@@ -98,7 +98,7 @@ real	16m0.802s
 real	16m1.626s
 real	16m42.090s
 
-Tempo Programa 2 - N = 100
+Tempo Programa 2 - N = 100     Média = 0,264833333s	Desvio Padrão = 0,015065566
 
 real	0m0.253s
 real	0m0.254s
@@ -132,7 +132,7 @@ real	0m0.238s
 real	0m0.273s
 
 
-Tempo Programa 2 - N = 1000
+Tempo Programa 2 - N = 1000     Média = 3,009233333s	Desvio Padrão = 0,013407881
 
 real	0m2.982s
 real	0m3.044s
@@ -165,7 +165,7 @@ real	0m2.994s
 real	0m3.009s
 real	0m3.008s
 
-Tempo Programa 2 - N = 2000
+Tempo Programa 2 - N = 2000     Média = 3,226333333s	Desvio Padrão = 0,020896021
 
 real	0m3.219s
 real	0m3.203s
