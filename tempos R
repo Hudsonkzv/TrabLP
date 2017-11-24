@@ -66,36 +66,37 @@ real	0m0.288s
 
 Tempo Programa 1 - N = 1000000
 
-real	0m37.788s
-real	0m38.659s
-real	0m37.863s
-real	0m37.842s
-real	0m38.326s
-real	0m38.048s
-real	0m38.148s
-real	0m38.287s
-real	0m38.036s
-real	0m40.090s
-real	0m37.784s
-real	0m37.713s
-real	0m37.491s
-real	0m37.786s
-real	0m37.962s
-real	0m38.018s
-real	0m37.798s
-real	0m38.016s
-real	0m38.549s
-real	0m38.356s
-real	0m38.994s
-real	0m38.201s
-real	0m38.103s
-real	0m38.118s
-real	0m38.264s
-real	0m39.167s
-real	0m38.059s
-real	0m38.615s
-real	0m37.735s
-real	0m37.891s
+real	16m55.650s
+real	16m14.415s
+real	15m57.870s
+user	14m5.992s
+real	16m36.527s
+real	16m29.293s
+real	16m32.845s
+real	16m33.711s
+real	15m58.022s
+real	16m33.397s
+real	16m0.490s
+real	16m40.718s
+real	16m1.662s
+real	16m38.337s
+real	16m4.136s
+real	16m1.735s
+real	16m42.399s
+real	16m3.323s
+real	16m3.869s
+real	16m48.540s
+real	16m41.426s
+real	16m38.700s
+real	16m9.479s
+real	16m6.310s
+real	16m17.364s
+real	16m47.856s
+real	16m20.609s
+real	16m58.727s
+real	16m0.802s
+real	16m1.626s
+real	16m42.090s
 
 Tempo Programa 2 - N = 100
 
